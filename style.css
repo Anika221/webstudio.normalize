@@ -1,0 +1,73 @@
+.div-h2{
+    text-indent: 100px;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(0, 0, 0);
+}
+.div-title{
+    background-color: #2F303A;
+    width: 1435px;
+    height: 400px;
+}
+.new-title{
+    color: #fff;
+    font-size: 44px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+button{
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    border: none;
+    background-color: #2196F3;
+    font-family: 'Roboto', sans-serif;
+}
+button:hover{
+    background-color: #bdb3b360;
+    transition-duration: 0.5s;
+}
+.div-p4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.ultimo-pezzo{
+    background-color: #2F303A;
+}
+
+.tittleimg1{
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.nostrogruppo{
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+.fotodicosafacciamo{
+    text-align: center;
+    word-spacing: 30px;
+}
+.nostro-gruppo{
+    text-align: center;
+    word-spacing: 30px;
+}
+.div-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+.tittlefooter{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+.footer-p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
